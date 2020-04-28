@@ -14,3 +14,5 @@ This function will:
 Store the text you want to analyse in the read.txt file, remember that if you intend to use a different emotion list you need to either store the emotions in the same format or change the formating for processing this list.
 
 Only external package needed for this will be matplotlib. This can be installed using pip
+
+Included are two analyses done on Barack Obama's final State of the Union speech (2016) as well as Trump's final State of the Union speech (at least for his first term)
