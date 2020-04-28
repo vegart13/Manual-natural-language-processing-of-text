@@ -15,4 +15,4 @@ Store the text you want to analyse in the read.txt file, remember that if you in
 
 Only external package needed for this will be matplotlib. This can be installed using pip
 
-Included are two analyses done on Barack Obama's final State of the Union speech (2016) as well as Trump's final State of the Union speech (at least for his first term)
+Included are two analyses done on Barack Obama's final State of the Union speech (2016) as well as Trump's final State of the Union speech(2020) (at least for his first term)
