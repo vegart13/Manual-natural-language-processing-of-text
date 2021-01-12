@@ -1,4 +1,4 @@
-# Manual-natural-language-processing-of-text
+# Manual natural language processing of text
 Analyses sentiments of a full text stored locally, gives back a bar diagram of the different emotions highlighting the sentimentalities by taking emotinal words and processing them manually.
 
 This function will:
